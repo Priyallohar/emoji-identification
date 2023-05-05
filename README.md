@@ -4,7 +4,7 @@ This app identify name of emoji which is passed in input. This app is made for i
 
 ---
 
-![](https://github.com/Priyallohar/emoji-identification/tree/main/image)
+![](https://github.com/Priyallohar/emoji-identification/blob/main/image/Capture.PNG)
 
 ---
 
