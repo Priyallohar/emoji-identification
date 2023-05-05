@@ -8,7 +8,7 @@ This app identify name of emoji which is passed in input. This app is made for i
 
 ---
 
-# Here you can see my potfolio:-
+# Here you can see app live:-
 
 ### <a href="https://emoji-identification.netlify.app/" target="_blank"> Emoji identification live </a>
 
