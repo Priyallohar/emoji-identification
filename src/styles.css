@@ -48,6 +48,11 @@ h2 {
   letter-spacing: 1px;
   cursor: pointer;
   margin-top: 40px;
+  border: 2px solid #d4a373;
+}
+
+.links button:hover{
+  border: 2px solid black;
 }
 
 .links button a {
