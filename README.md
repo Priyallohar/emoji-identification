@@ -20,3 +20,9 @@ This app identify name of emoji which is passed in input. This app is made for i
 2.CSS
 
 3.Java Script
+
+---
+
+Contact :
+
+* [LinkedIN](https://www.linkedin.com/in/priyallohar/)
